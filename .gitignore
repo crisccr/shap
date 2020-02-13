@@ -19,5 +19,4 @@ shap/_cext.so
 /notebooks/deep_explainer/mnist_data
 /data/CRIC*
 /docs/artwork/local
-/shap/_cext*
 .idea
